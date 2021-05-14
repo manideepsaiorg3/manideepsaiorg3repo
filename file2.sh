@@ -32,7 +32,7 @@ qwerty
 
 hsksklj
 
-jjhjhjjh
+
 <<<<<<< HEAD
 yuiop3
 =======
